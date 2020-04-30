@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1583855902 source:e:\2020\matrice\src\matrice.cpp
+	"matrice.h"
+	<iostream>
+
+1583855706 e:\2020\matrice\include\matrice.h
+
+1583855600 source:e:\2020\matrice\main.cpp
+	<iostream>
+	"matrice.h"
+	<stdlib.h>
+
+1588084861 source:f:\data\enseignement\l3maef\2019-2020\projets\matrice\main.cpp
+	<iostream>
+	"matrice.h"
+	<stdlib.h>
+	<math.h>
+
+1587483244 f:\data\enseignement\l3maef\2019-2020\projets\matrice\include\matrice.h
+
+1587483915 source:f:\data\enseignement\l3maef\2019-2020\projets\matrice\src\matrice.cpp
+	"matrice.h"
+	<iostream>
+	<math.h>
+
+1588084521 source:f:\data\enseignement\l3maef\2019-2020\projets\matrice\gc.cpp
+	"matrice.h"
+	<iostream>
+
